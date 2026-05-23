@@ -1,16 +1,18 @@
-## Hi there 👋
+# Muhammad Abdul Rahman
 
-<!--
-**marrecluse/marrecluse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Information Technology student in the UK focused on Linux, Cloud, DevSecOps, and Cyber Defence.
 
-Here are some ideas to get you started:
+I build practical projects around secure cloud deployment, Linux infrastructure, automation, and AI-assisted cyber defence for IoT networks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+- Linux Systems Administration
+- DevOps and DevSecOps
+- Cloud Security
+- Network Security
+- Open Source Intelligence
+- Cyber Defence for Critical Infrastructure
+
+## Featured Projects
+- Secure DevOps Pipeline
+- Linux Server Hardening Lab
+- AI-Assisted IoT Cyber Defence System
